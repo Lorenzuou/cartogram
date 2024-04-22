@@ -1,0 +1,41 @@
+{
+	"type":	"FeatureCollection",
+	"bbox":	[99.104985848055961, 156.5472252194678, 99.104985848055961, 156.5472252194678],
+	"features":	[{
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1",
+				"avg_grayscale_value":	1,
+				"region_name":	"region_Q1"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"2",
+				"avg_grayscale_value":	2,
+				"region_name":	"region_Q2"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"3",
+				"avg_grayscale_value":	3,
+				"region_name":	"region_Q3"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"4",
+				"avg_grayscale_value":	4,
+				"region_name":	"region_Q4"
+			},
+			"geometry":	{
+			}
+		}]
+}

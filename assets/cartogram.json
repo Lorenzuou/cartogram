@@ -1,0 +1,9725 @@
+{
+	"type":	"FeatureCollection",
+	"bbox":	[116.36597258935544, 87.085652675573343, 116.36597258935544, 87.085652675573343],
+	"features":	[{
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1",
+				"gradient_value":	27.796875,
+				"region_name":	"region_0"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"2",
+				"gradient_value":	25.890625,
+				"region_name":	"region_1"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"193",
+				"gradient_value":	26.8125,
+				"region_name":	"region_2"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"304",
+				"gradient_value":	26.078125,
+				"region_name":	"region_3"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"415",
+				"gradient_value":	23.1875,
+				"region_name":	"region_4"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"526",
+				"gradient_value":	24.46875,
+				"region_name":	"region_5"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"637",
+				"gradient_value":	24.40625,
+				"region_name":	"region_6"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"748",
+				"gradient_value":	21.46875,
+				"region_name":	"region_7"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"859",
+				"gradient_value":	16.5625,
+				"region_name":	"region_8"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"970",
+				"gradient_value":	16.734375,
+				"region_name":	"region_9"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"3",
+				"gradient_value":	18.21875,
+				"region_name":	"region_10"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"94",
+				"gradient_value":	20.6875,
+				"region_name":	"region_11"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"105",
+				"gradient_value":	22.53125,
+				"region_name":	"region_12"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"116",
+				"gradient_value":	24.6875,
+				"region_name":	"region_13"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"127",
+				"gradient_value":	20.84375,
+				"region_name":	"region_14"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"138",
+				"gradient_value":	21.875,
+				"region_name":	"region_15"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"149",
+				"gradient_value":	22.125,
+				"region_name":	"region_16"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"160",
+				"gradient_value":	21.640625,
+				"region_name":	"region_17"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"171",
+				"gradient_value":	22.015625,
+				"region_name":	"region_18"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"182",
+				"gradient_value":	24.734375,
+				"region_name":	"region_19"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"194",
+				"gradient_value":	23.375,
+				"region_name":	"region_20"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"205",
+				"gradient_value":	24.484375,
+				"region_name":	"region_21"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"216",
+				"gradient_value":	24.078125,
+				"region_name":	"region_22"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"227",
+				"gradient_value":	21.15625,
+				"region_name":	"region_23"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"238",
+				"gradient_value":	22.234375,
+				"region_name":	"region_24"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"249",
+				"gradient_value":	22.34375,
+				"region_name":	"region_25"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"260",
+				"gradient_value":	21.140625,
+				"region_name":	"region_26"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"271",
+				"gradient_value":	22.015625,
+				"region_name":	"region_27"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"282",
+				"gradient_value":	22.25,
+				"region_name":	"region_28"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"293",
+				"gradient_value":	23.03125,
+				"region_name":	"region_29"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"305",
+				"gradient_value":	26.546875,
+				"region_name":	"region_30"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"316",
+				"gradient_value":	30.53125,
+				"region_name":	"region_31"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"327",
+				"gradient_value":	32.84375,
+				"region_name":	"region_32"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"338",
+				"gradient_value":	32.5,
+				"region_name":	"region_33"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"349",
+				"gradient_value":	29.375,
+				"region_name":	"region_34"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"360",
+				"gradient_value":	31.125,
+				"region_name":	"region_35"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"371",
+				"gradient_value":	29.390625,
+				"region_name":	"region_36"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"382",
+				"gradient_value":	26.703125,
+				"region_name":	"region_37"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"393",
+				"gradient_value":	21.875,
+				"region_name":	"region_38"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"404",
+				"gradient_value":	23.234375,
+				"region_name":	"region_39"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"416",
+				"gradient_value":	26.734375,
+				"region_name":	"region_40"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"427",
+				"gradient_value":	22.109375,
+				"region_name":	"region_41"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"438",
+				"gradient_value":	25.828125,
+				"region_name":	"region_42"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"449",
+				"gradient_value":	28.359375,
+				"region_name":	"region_43"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"460",
+				"gradient_value":	24.515625,
+				"region_name":	"region_44"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"471",
+				"gradient_value":	26.21875,
+				"region_name":	"region_45"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"482",
+				"gradient_value":	28.015625,
+				"region_name":	"region_46"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"493",
+				"gradient_value":	28.0625,
+				"region_name":	"region_47"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"504",
+				"gradient_value":	26.421875,
+				"region_name":	"region_48"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"515",
+				"gradient_value":	25.453125,
+				"region_name":	"region_49"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"527",
+				"gradient_value":	26.09375,
+				"region_name":	"region_50"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"538",
+				"gradient_value":	25.90625,
+				"region_name":	"region_51"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"549",
+				"gradient_value":	27.015625,
+				"region_name":	"region_52"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"560",
+				"gradient_value":	23.453125,
+				"region_name":	"region_53"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"571",
+				"gradient_value":	23.875,
+				"region_name":	"region_54"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"582",
+				"gradient_value":	23.8125,
+				"region_name":	"region_55"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"593",
+				"gradient_value":	26.390625,
+				"region_name":	"region_56"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"604",
+				"gradient_value":	24.3125,
+				"region_name":	"region_57"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"615",
+				"gradient_value":	23.8125,
+				"region_name":	"region_58"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"626",
+				"gradient_value":	22.5,
+				"region_name":	"region_59"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"638",
+				"gradient_value":	27.5,
+				"region_name":	"region_60"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"649",
+				"gradient_value":	33.65625,
+				"region_name":	"region_61"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"660",
+				"gradient_value":	33.640625,
+				"region_name":	"region_62"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"671",
+				"gradient_value":	33.09375,
+				"region_name":	"region_63"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"682",
+				"gradient_value":	29.796875,
+				"region_name":	"region_64"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"693",
+				"gradient_value":	29.84375,
+				"region_name":	"region_65"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"704",
+				"gradient_value":	29.90625,
+				"region_name":	"region_66"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"715",
+				"gradient_value":	28.421875,
+				"region_name":	"region_67"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"726",
+				"gradient_value":	26.234375,
+				"region_name":	"region_68"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"737",
+				"gradient_value":	26.875,
+				"region_name":	"region_69"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"749",
+				"gradient_value":	27.5625,
+				"region_name":	"region_70"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"760",
+				"gradient_value":	22.203125,
+				"region_name":	"region_71"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"771",
+				"gradient_value":	22.53125,
+				"region_name":	"region_72"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"782",
+				"gradient_value":	23.140625,
+				"region_name":	"region_73"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"793",
+				"gradient_value":	24.40625,
+				"region_name":	"region_74"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"804",
+				"gradient_value":	28.59375,
+				"region_name":	"region_75"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"815",
+				"gradient_value":	29.203125,
+				"region_name":	"region_76"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"826",
+				"gradient_value":	28.25,
+				"region_name":	"region_77"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"837",
+				"gradient_value":	28.65625,
+				"region_name":	"region_78"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"848",
+				"gradient_value":	31,
+				"region_name":	"region_79"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"860",
+				"gradient_value":	28.515625,
+				"region_name":	"region_80"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"871",
+				"gradient_value":	28.234375,
+				"region_name":	"region_81"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"882",
+				"gradient_value":	27.1875,
+				"region_name":	"region_82"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"893",
+				"gradient_value":	25.765625,
+				"region_name":	"region_83"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"904",
+				"gradient_value":	26.609375,
+				"region_name":	"region_84"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"915",
+				"gradient_value":	28.671875,
+				"region_name":	"region_85"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"926",
+				"gradient_value":	28.46875,
+				"region_name":	"region_86"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"937",
+				"gradient_value":	30.25,
+				"region_name":	"region_87"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"948",
+				"gradient_value":	28.6875,
+				"region_name":	"region_88"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"959",
+				"gradient_value":	22.484375,
+				"region_name":	"region_89"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"971",
+				"gradient_value":	31.0625,
+				"region_name":	"region_90"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"982",
+				"gradient_value":	33.34375,
+				"region_name":	"region_91"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"993",
+				"gradient_value":	32.96875,
+				"region_name":	"region_92"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1004",
+				"gradient_value":	37.578125,
+				"region_name":	"region_93"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1015",
+				"gradient_value":	35.234375,
+				"region_name":	"region_94"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1026",
+				"gradient_value":	33.65625,
+				"region_name":	"region_95"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1037",
+				"gradient_value":	31.75,
+				"region_name":	"region_96"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1048",
+				"gradient_value":	29.828125,
+				"region_name":	"region_97"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1059",
+				"gradient_value":	26.21875,
+				"region_name":	"region_98"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1070",
+				"gradient_value":	24.71875,
+				"region_name":	"region_99"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"4",
+				"gradient_value":	25.25,
+				"region_name":	"region_100"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"15",
+				"gradient_value":	22.71875,
+				"region_name":	"region_101"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"26",
+				"gradient_value":	23.390625,
+				"region_name":	"region_102"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"37",
+				"gradient_value":	24.96875,
+				"region_name":	"region_103"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"48",
+				"gradient_value":	25,
+				"region_name":	"region_104"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"59",
+				"gradient_value":	25.171875,
+				"region_name":	"region_105"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"70",
+				"gradient_value":	28.78125,
+				"region_name":	"region_106"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"81",
+				"gradient_value":	29.703125,
+				"region_name":	"region_107"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"92",
+				"gradient_value":	31.296875,
+				"region_name":	"region_108"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"93",
+				"gradient_value":	33.359375,
+				"region_name":	"region_109"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"95",
+				"gradient_value":	33.015625,
+				"region_name":	"region_110"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"96",
+				"gradient_value":	32.5625,
+				"region_name":	"region_111"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"97",
+				"gradient_value":	30.484375,
+				"region_name":	"region_112"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"98",
+				"gradient_value":	28.65625,
+				"region_name":	"region_113"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"99",
+				"gradient_value":	28.53125,
+				"region_name":	"region_114"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"100",
+				"gradient_value":	31.078125,
+				"region_name":	"region_115"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"101",
+				"gradient_value":	33.515625,
+				"region_name":	"region_116"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"102",
+				"gradient_value":	28.9375,
+				"region_name":	"region_117"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"103",
+				"gradient_value":	26.390625,
+				"region_name":	"region_118"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"104",
+				"gradient_value":	21.46875,
+				"region_name":	"region_119"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"106",
+				"gradient_value":	32.125,
+				"region_name":	"region_120"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"107",
+				"gradient_value":	35.953125,
+				"region_name":	"region_121"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"108",
+				"gradient_value":	34.765625,
+				"region_name":	"region_122"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"109",
+				"gradient_value":	36.265625,
+				"region_name":	"region_123"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"110",
+				"gradient_value":	36.3125,
+				"region_name":	"region_124"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"111",
+				"gradient_value":	35.078125,
+				"region_name":	"region_125"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"112",
+				"gradient_value":	32.578125,
+				"region_name":	"region_126"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"113",
+				"gradient_value":	28.390625,
+				"region_name":	"region_127"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"114",
+				"gradient_value":	28.328125,
+				"region_name":	"region_128"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"115",
+				"gradient_value":	26.984375,
+				"region_name":	"region_129"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"117",
+				"gradient_value":	24.328125,
+				"region_name":	"region_130"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"118",
+				"gradient_value":	25.546875,
+				"region_name":	"region_131"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"119",
+				"gradient_value":	27.09375,
+				"region_name":	"region_132"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"120",
+				"gradient_value":	29.71875,
+				"region_name":	"region_133"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"121",
+				"gradient_value":	29.34375,
+				"region_name":	"region_134"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"122",
+				"gradient_value":	29.25,
+				"region_name":	"region_135"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"123",
+				"gradient_value":	50.78125,
+				"region_name":	"region_136"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"124",
+				"gradient_value":	121.609375,
+				"region_name":	"region_137"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"125",
+				"gradient_value":	145.703125,
+				"region_name":	"region_138"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"126",
+				"gradient_value":	138.625,
+				"region_name":	"region_139"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"128",
+				"gradient_value":	95.796875,
+				"region_name":	"region_140"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"129",
+				"gradient_value":	42.640625,
+				"region_name":	"region_141"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"130",
+				"gradient_value":	31.265625,
+				"region_name":	"region_142"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"131",
+				"gradient_value":	31.109375,
+				"region_name":	"region_143"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"132",
+				"gradient_value":	33.703125,
+				"region_name":	"region_144"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"133",
+				"gradient_value":	31.59375,
+				"region_name":	"region_145"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"134",
+				"gradient_value":	30.453125,
+				"region_name":	"region_146"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"135",
+				"gradient_value":	28.765625,
+				"region_name":	"region_147"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"136",
+				"gradient_value":	28.40625,
+				"region_name":	"region_148"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"137",
+				"gradient_value":	22.28125,
+				"region_name":	"region_149"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"139",
+				"gradient_value":	33.328125,
+				"region_name":	"region_150"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"140",
+				"gradient_value":	35.640625,
+				"region_name":	"region_151"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"141",
+				"gradient_value":	36.03125,
+				"region_name":	"region_152"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"142",
+				"gradient_value":	38.15625,
+				"region_name":	"region_153"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"143",
+				"gradient_value":	37.625,
+				"region_name":	"region_154"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"144",
+				"gradient_value":	38.1875,
+				"region_name":	"region_155"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"145",
+				"gradient_value":	36.90625,
+				"region_name":	"region_156"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"146",
+				"gradient_value":	36.75,
+				"region_name":	"region_157"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"147",
+				"gradient_value":	35.046875,
+				"region_name":	"region_158"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"148",
+				"gradient_value":	31.4375,
+				"region_name":	"region_159"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"150",
+				"gradient_value":	32.1875,
+				"region_name":	"region_160"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"151",
+				"gradient_value":	31.671875,
+				"region_name":	"region_161"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"152",
+				"gradient_value":	31.6875,
+				"region_name":	"region_162"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"153",
+				"gradient_value":	35.859375,
+				"region_name":	"region_163"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"154",
+				"gradient_value":	40.15625,
+				"region_name":	"region_164"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"155",
+				"gradient_value":	93.84375,
+				"region_name":	"region_165"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"156",
+				"gradient_value":	170.234375,
+				"region_name":	"region_166"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"157",
+				"gradient_value":	175.265625,
+				"region_name":	"region_167"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"158",
+				"gradient_value":	177.453125,
+				"region_name":	"region_168"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"159",
+				"gradient_value":	202.125,
+				"region_name":	"region_169"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"161",
+				"gradient_value":	196.578125,
+				"region_name":	"region_170"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"162",
+				"gradient_value":	110.796875,
+				"region_name":	"region_171"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"163",
+				"gradient_value":	48.5625,
+				"region_name":	"region_172"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"164",
+				"gradient_value":	31.859375,
+				"region_name":	"region_173"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"165",
+				"gradient_value":	31.484375,
+				"region_name":	"region_174"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"166",
+				"gradient_value":	31.609375,
+				"region_name":	"region_175"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"167",
+				"gradient_value":	34.5,
+				"region_name":	"region_176"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"168",
+				"gradient_value":	31.921875,
+				"region_name":	"region_177"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"169",
+				"gradient_value":	29.296875,
+				"region_name":	"region_178"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"170",
+				"gradient_value":	23.65625,
+				"region_name":	"region_179"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"172",
+				"gradient_value":	31.15625,
+				"region_name":	"region_180"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"173",
+				"gradient_value":	35.1875,
+				"region_name":	"region_181"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"174",
+				"gradient_value":	39.859375,
+				"region_name":	"region_182"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"175",
+				"gradient_value":	39.28125,
+				"region_name":	"region_183"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"176",
+				"gradient_value":	39.90625,
+				"region_name":	"region_184"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"177",
+				"gradient_value":	39.96875,
+				"region_name":	"region_185"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"178",
+				"gradient_value":	37.578125,
+				"region_name":	"region_186"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"179",
+				"gradient_value":	37.859375,
+				"region_name":	"region_187"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"180",
+				"gradient_value":	37.25,
+				"region_name":	"region_188"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"181",
+				"gradient_value":	36.6875,
+				"region_name":	"region_189"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"183",
+				"gradient_value":	33.75,
+				"region_name":	"region_190"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"184",
+				"gradient_value":	33.390625,
+				"region_name":	"region_191"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"185",
+				"gradient_value":	65.671875,
+				"region_name":	"region_192"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"186",
+				"gradient_value":	124.46875,
+				"region_name":	"region_193"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"187",
+				"gradient_value":	152.640625,
+				"region_name":	"region_194"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"188",
+				"gradient_value":	169.140625,
+				"region_name":	"region_195"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"189",
+				"gradient_value":	158.921875,
+				"region_name":	"region_196"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"190",
+				"gradient_value":	168.640625,
+				"region_name":	"region_197"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"191",
+				"gradient_value":	184.640625,
+				"region_name":	"region_198"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"192",
+				"gradient_value":	165.4375,
+				"region_name":	"region_199"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"195",
+				"gradient_value":	150.453125,
+				"region_name":	"region_200"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"196",
+				"gradient_value":	139.125,
+				"region_name":	"region_201"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"197",
+				"gradient_value":	72.5,
+				"region_name":	"region_202"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"198",
+				"gradient_value":	42.578125,
+				"region_name":	"region_203"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"199",
+				"gradient_value":	32.0625,
+				"region_name":	"region_204"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"200",
+				"gradient_value":	32.5,
+				"region_name":	"region_205"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"201",
+				"gradient_value":	33.6875,
+				"region_name":	"region_206"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"202",
+				"gradient_value":	30.703125,
+				"region_name":	"region_207"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"203",
+				"gradient_value":	27.78125,
+				"region_name":	"region_208"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"204",
+				"gradient_value":	24,
+				"region_name":	"region_209"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"206",
+				"gradient_value":	29.96875,
+				"region_name":	"region_210"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"207",
+				"gradient_value":	35.21875,
+				"region_name":	"region_211"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"208",
+				"gradient_value":	38.671875,
+				"region_name":	"region_212"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"209",
+				"gradient_value":	39.171875,
+				"region_name":	"region_213"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"210",
+				"gradient_value":	42.578125,
+				"region_name":	"region_214"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"211",
+				"gradient_value":	42.890625,
+				"region_name":	"region_215"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"212",
+				"gradient_value":	40.46875,
+				"region_name":	"region_216"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"213",
+				"gradient_value":	38.765625,
+				"region_name":	"region_217"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"214",
+				"gradient_value":	35.125,
+				"region_name":	"region_218"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"215",
+				"gradient_value":	34.375,
+				"region_name":	"region_219"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"217",
+				"gradient_value":	38,
+				"region_name":	"region_220"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"218",
+				"gradient_value":	96.640625,
+				"region_name":	"region_221"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"219",
+				"gradient_value":	184.0625,
+				"region_name":	"region_222"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"220",
+				"gradient_value":	192.734375,
+				"region_name":	"region_223"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"221",
+				"gradient_value":	179.53125,
+				"region_name":	"region_224"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"222",
+				"gradient_value":	167.09375,
+				"region_name":	"region_225"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"223",
+				"gradient_value":	160.203125,
+				"region_name":	"region_226"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"224",
+				"gradient_value":	138.609375,
+				"region_name":	"region_227"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"225",
+				"gradient_value":	122.6875,
+				"region_name":	"region_228"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"226",
+				"gradient_value":	152.984375,
+				"region_name":	"region_229"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"228",
+				"gradient_value":	139.1875,
+				"region_name":	"region_230"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"229",
+				"gradient_value":	117.234375,
+				"region_name":	"region_231"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"230",
+				"gradient_value":	100.328125,
+				"region_name":	"region_232"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"231",
+				"gradient_value":	53.453125,
+				"region_name":	"region_233"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"232",
+				"gradient_value":	32.328125,
+				"region_name":	"region_234"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"233",
+				"gradient_value":	33.734375,
+				"region_name":	"region_235"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"234",
+				"gradient_value":	32.65625,
+				"region_name":	"region_236"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"235",
+				"gradient_value":	29.625,
+				"region_name":	"region_237"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"236",
+				"gradient_value":	26.1875,
+				"region_name":	"region_238"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"237",
+				"gradient_value":	24.71875,
+				"region_name":	"region_239"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"239",
+				"gradient_value":	32.625,
+				"region_name":	"region_240"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"240",
+				"gradient_value":	34.703125,
+				"region_name":	"region_241"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"241",
+				"gradient_value":	38.296875,
+				"region_name":	"region_242"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"242",
+				"gradient_value":	40.515625,
+				"region_name":	"region_243"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"243",
+				"gradient_value":	42.296875,
+				"region_name":	"region_244"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"244",
+				"gradient_value":	42.59375,
+				"region_name":	"region_245"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"245",
+				"gradient_value":	40.359375,
+				"region_name":	"region_246"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"246",
+				"gradient_value":	38.875,
+				"region_name":	"region_247"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"247",
+				"gradient_value":	34.390625,
+				"region_name":	"region_248"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"248",
+				"gradient_value":	34.09375,
+				"region_name":	"region_249"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"250",
+				"gradient_value":	79.78125,
+				"region_name":	"region_250"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"251",
+				"gradient_value":	182.609375,
+				"region_name":	"region_251"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"252",
+				"gradient_value":	190.953125,
+				"region_name":	"region_252"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"253",
+				"gradient_value":	188.28125,
+				"region_name":	"region_253"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"254",
+				"gradient_value":	173.984375,
+				"region_name":	"region_254"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"255",
+				"gradient_value":	161.375,
+				"region_name":	"region_255"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"256",
+				"gradient_value":	159.5,
+				"region_name":	"region_256"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"257",
+				"gradient_value":	148.84375,
+				"region_name":	"region_257"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"258",
+				"gradient_value":	141.6875,
+				"region_name":	"region_258"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"259",
+				"gradient_value":	88.515625,
+				"region_name":	"region_259"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"261",
+				"gradient_value":	105.765625,
+				"region_name":	"region_260"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"262",
+				"gradient_value":	95.390625,
+				"region_name":	"region_261"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"263",
+				"gradient_value":	113.65625,
+				"region_name":	"region_262"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"264",
+				"gradient_value":	60.8125,
+				"region_name":	"region_263"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"265",
+				"gradient_value":	30.421875,
+				"region_name":	"region_264"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"266",
+				"gradient_value":	32.765625,
+				"region_name":	"region_265"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"267",
+				"gradient_value":	29.921875,
+				"region_name":	"region_266"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"268",
+				"gradient_value":	28.265625,
+				"region_name":	"region_267"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"269",
+				"gradient_value":	25.359375,
+				"region_name":	"region_268"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"270",
+				"gradient_value":	21.96875,
+				"region_name":	"region_269"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"272",
+				"gradient_value":	33.296875,
+				"region_name":	"region_270"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"273",
+				"gradient_value":	37.453125,
+				"region_name":	"region_271"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"274",
+				"gradient_value":	38.296875,
+				"region_name":	"region_272"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"275",
+				"gradient_value":	39.5,
+				"region_name":	"region_273"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"276",
+				"gradient_value":	42.296875,
+				"region_name":	"region_274"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"277",
+				"gradient_value":	40.765625,
+				"region_name":	"region_275"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"278",
+				"gradient_value":	38.171875,
+				"region_name":	"region_276"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"279",
+				"gradient_value":	39.140625,
+				"region_name":	"region_277"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"280",
+				"gradient_value":	36.765625,
+				"region_name":	"region_278"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"281",
+				"gradient_value":	39.375,
+				"region_name":	"region_279"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"283",
+				"gradient_value":	155.265625,
+				"region_name":	"region_280"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"284",
+				"gradient_value":	180.90625,
+				"region_name":	"region_281"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"285",
+				"gradient_value":	186.625,
+				"region_name":	"region_282"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"286",
+				"gradient_value":	179.078125,
+				"region_name":	"region_283"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"287",
+				"gradient_value":	147.328125,
+				"region_name":	"region_284"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"288",
+				"gradient_value":	158.234375,
+				"region_name":	"region_285"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"289",
+				"gradient_value":	157.296875,
+				"region_name":	"region_286"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"290",
+				"gradient_value":	142.90625,
+				"region_name":	"region_287"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"291",
+				"gradient_value":	123.984375,
+				"region_name":	"region_288"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"292",
+				"gradient_value":	87.609375,
+				"region_name":	"region_289"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"294",
+				"gradient_value":	78.09375,
+				"region_name":	"region_290"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"295",
+				"gradient_value":	84.515625,
+				"region_name":	"region_291"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"296",
+				"gradient_value":	148.953125,
+				"region_name":	"region_292"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"297",
+				"gradient_value":	79.828125,
+				"region_name":	"region_293"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"298",
+				"gradient_value":	32.09375,
+				"region_name":	"region_294"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"299",
+				"gradient_value":	27.609375,
+				"region_name":	"region_295"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"300",
+				"gradient_value":	26.484375,
+				"region_name":	"region_296"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"301",
+				"gradient_value":	28.5625,
+				"region_name":	"region_297"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"302",
+				"gradient_value":	26.875,
+				"region_name":	"region_298"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"303",
+				"gradient_value":	23.34375,
+				"region_name":	"region_299"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"306",
+				"gradient_value":	32.375,
+				"region_name":	"region_300"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"307",
+				"gradient_value":	37.46875,
+				"region_name":	"region_301"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"308",
+				"gradient_value":	42.609375,
+				"region_name":	"region_302"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"309",
+				"gradient_value":	42.640625,
+				"region_name":	"region_303"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"310",
+				"gradient_value":	40.75,
+				"region_name":	"region_304"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"311",
+				"gradient_value":	40.46875,
+				"region_name":	"region_305"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"312",
+				"gradient_value":	39.6875,
+				"region_name":	"region_306"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"313",
+				"gradient_value":	39.140625,
+				"region_name":	"region_307"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"314",
+				"gradient_value":	38.625,
+				"region_name":	"region_308"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"315",
+				"gradient_value":	50.15625,
+				"region_name":	"region_309"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"317",
+				"gradient_value":	184.78125,
+				"region_name":	"region_310"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"318",
+				"gradient_value":	212.109375,
+				"region_name":	"region_311"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"319",
+				"gradient_value":	190.828125,
+				"region_name":	"region_312"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"320",
+				"gradient_value":	162.578125,
+				"region_name":	"region_313"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"321",
+				"gradient_value":	133.3125,
+				"region_name":	"region_314"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"322",
+				"gradient_value":	110.65625,
+				"region_name":	"region_315"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"323",
+				"gradient_value":	124.171875,
+				"region_name":	"region_316"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"324",
+				"gradient_value":	81.171875,
+				"region_name":	"region_317"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"325",
+				"gradient_value":	80.5625,
+				"region_name":	"region_318"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"326",
+				"gradient_value":	67.84375,
+				"region_name":	"region_319"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"328",
+				"gradient_value":	77.1875,
+				"region_name":	"region_320"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"329",
+				"gradient_value":	74.6875,
+				"region_name":	"region_321"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"330",
+				"gradient_value":	146.796875,
+				"region_name":	"region_322"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"331",
+				"gradient_value":	88.453125,
+				"region_name":	"region_323"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"332",
+				"gradient_value":	51.6875,
+				"region_name":	"region_324"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"333",
+				"gradient_value":	21.21875,
+				"region_name":	"region_325"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"334",
+				"gradient_value":	24.671875,
+				"region_name":	"region_326"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"335",
+				"gradient_value":	28.328125,
+				"region_name":	"region_327"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"336",
+				"gradient_value":	25.515625,
+				"region_name":	"region_328"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"337",
+				"gradient_value":	23.515625,
+				"region_name":	"region_329"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"339",
+				"gradient_value":	30.453125,
+				"region_name":	"region_330"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"340",
+				"gradient_value":	32.75,
+				"region_name":	"region_331"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"341",
+				"gradient_value":	40.515625,
+				"region_name":	"region_332"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"342",
+				"gradient_value":	36.828125,
+				"region_name":	"region_333"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"343",
+				"gradient_value":	37.71875,
+				"region_name":	"region_334"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"344",
+				"gradient_value":	36.921875,
+				"region_name":	"region_335"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"345",
+				"gradient_value":	42.671875,
+				"region_name":	"region_336"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"346",
+				"gradient_value":	39.015625,
+				"region_name":	"region_337"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"347",
+				"gradient_value":	39.046875,
+				"region_name":	"region_338"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"348",
+				"gradient_value":	92.296875,
+				"region_name":	"region_339"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"350",
+				"gradient_value":	220.21875,
+				"region_name":	"region_340"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"351",
+				"gradient_value":	219,
+				"region_name":	"region_341"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"352",
+				"gradient_value":	207.890625,
+				"region_name":	"region_342"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"353",
+				"gradient_value":	192.453125,
+				"region_name":	"region_343"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"354",
+				"gradient_value":	136.234375,
+				"region_name":	"region_344"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"355",
+				"gradient_value":	89.390625,
+				"region_name":	"region_345"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"356",
+				"gradient_value":	74.546875,
+				"region_name":	"region_346"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"357",
+				"gradient_value":	72.390625,
+				"region_name":	"region_347"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"358",
+				"gradient_value":	70.71875,
+				"region_name":	"region_348"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"359",
+				"gradient_value":	78.5,
+				"region_name":	"region_349"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"361",
+				"gradient_value":	70.71875,
+				"region_name":	"region_350"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"362",
+				"gradient_value":	71.328125,
+				"region_name":	"region_351"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"363",
+				"gradient_value":	129.578125,
+				"region_name":	"region_352"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"364",
+				"gradient_value":	86.890625,
+				"region_name":	"region_353"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"365",
+				"gradient_value":	64,
+				"region_name":	"region_354"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"366",
+				"gradient_value":	28.46875,
+				"region_name":	"region_355"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"367",
+				"gradient_value":	24.046875,
+				"region_name":	"region_356"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"368",
+				"gradient_value":	27.203125,
+				"region_name":	"region_357"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"369",
+				"gradient_value":	27.15625,
+				"region_name":	"region_358"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"370",
+				"gradient_value":	22.875,
+				"region_name":	"region_359"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"372",
+				"gradient_value":	30.265625,
+				"region_name":	"region_360"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"373",
+				"gradient_value":	31.8125,
+				"region_name":	"region_361"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"374",
+				"gradient_value":	35.171875,
+				"region_name":	"region_362"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"375",
+				"gradient_value":	34.875,
+				"region_name":	"region_363"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"376",
+				"gradient_value":	36,
+				"region_name":	"region_364"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"377",
+				"gradient_value":	35.171875,
+				"region_name":	"region_365"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"378",
+				"gradient_value":	39.3125,
+				"region_name":	"region_366"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"379",
+				"gradient_value":	40.140625,
+				"region_name":	"region_367"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"380",
+				"gradient_value":	38.765625,
+				"region_name":	"region_368"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"381",
+				"gradient_value":	102.53125,
+				"region_name":	"region_369"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"383",
+				"gradient_value":	185.234375,
+				"region_name":	"region_370"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"384",
+				"gradient_value":	207.546875,
+				"region_name":	"region_371"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"385",
+				"gradient_value":	180.375,
+				"region_name":	"region_372"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"386",
+				"gradient_value":	184.0625,
+				"region_name":	"region_373"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"387",
+				"gradient_value":	176.09375,
+				"region_name":	"region_374"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"388",
+				"gradient_value":	106.65625,
+				"region_name":	"region_375"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"389",
+				"gradient_value":	65.578125,
+				"region_name":	"region_376"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"390",
+				"gradient_value":	52.375,
+				"region_name":	"region_377"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"391",
+				"gradient_value":	59.125,
+				"region_name":	"region_378"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"392",
+				"gradient_value":	60.546875,
+				"region_name":	"region_379"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"394",
+				"gradient_value":	76.78125,
+				"region_name":	"region_380"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"395",
+				"gradient_value":	71.28125,
+				"region_name":	"region_381"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"396",
+				"gradient_value":	118.890625,
+				"region_name":	"region_382"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"397",
+				"gradient_value":	87.59375,
+				"region_name":	"region_383"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"398",
+				"gradient_value":	80.953125,
+				"region_name":	"region_384"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"399",
+				"gradient_value":	29.71875,
+				"region_name":	"region_385"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"400",
+				"gradient_value":	27.734375,
+				"region_name":	"region_386"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"401",
+				"gradient_value":	28.609375,
+				"region_name":	"region_387"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"402",
+				"gradient_value":	27.640625,
+				"region_name":	"region_388"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"403",
+				"gradient_value":	23.71875,
+				"region_name":	"region_389"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"405",
+				"gradient_value":	29.96875,
+				"region_name":	"region_390"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"406",
+				"gradient_value":	34.609375,
+				"region_name":	"region_391"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"407",
+				"gradient_value":	36.03125,
+				"region_name":	"region_392"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"408",
+				"gradient_value":	35.515625,
+				"region_name":	"region_393"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"409",
+				"gradient_value":	35.671875,
+				"region_name":	"region_394"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"410",
+				"gradient_value":	36.046875,
+				"region_name":	"region_395"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"411",
+				"gradient_value":	37.109375,
+				"region_name":	"region_396"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"412",
+				"gradient_value":	40.640625,
+				"region_name":	"region_397"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"413",
+				"gradient_value":	40.546875,
+				"region_name":	"region_398"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"414",
+				"gradient_value":	105.125,
+				"region_name":	"region_399"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"417",
+				"gradient_value":	137.734375,
+				"region_name":	"region_400"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"418",
+				"gradient_value":	188.390625,
+				"region_name":	"region_401"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"419",
+				"gradient_value":	159.015625,
+				"region_name":	"region_402"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"420",
+				"gradient_value":	161.34375,
+				"region_name":	"region_403"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"421",
+				"gradient_value":	134.984375,
+				"region_name":	"region_404"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"422",
+				"gradient_value":	110.90625,
+				"region_name":	"region_405"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"423",
+				"gradient_value":	74.921875,
+				"region_name":	"region_406"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"424",
+				"gradient_value":	72.4375,
+				"region_name":	"region_407"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"425",
+				"gradient_value":	59.5625,
+				"region_name":	"region_408"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"426",
+				"gradient_value":	55.53125,
+				"region_name":	"region_409"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"428",
+				"gradient_value":	66.59375,
+				"region_name":	"region_410"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"429",
+				"gradient_value":	62.53125,
+				"region_name":	"region_411"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"430",
+				"gradient_value":	111.21875,
+				"region_name":	"region_412"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"431",
+				"gradient_value":	98.359375,
+				"region_name":	"region_413"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"432",
+				"gradient_value":	104.5625,
+				"region_name":	"region_414"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"433",
+				"gradient_value":	47.25,
+				"region_name":	"region_415"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"434",
+				"gradient_value":	30.46875,
+				"region_name":	"region_416"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"435",
+				"gradient_value":	28.5,
+				"region_name":	"region_417"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"436",
+				"gradient_value":	29,
+				"region_name":	"region_418"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"437",
+				"gradient_value":	26.640625,
+				"region_name":	"region_419"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"439",
+				"gradient_value":	29.734375,
+				"region_name":	"region_420"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"440",
+				"gradient_value":	36.96875,
+				"region_name":	"region_421"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"441",
+				"gradient_value":	37.71875,
+				"region_name":	"region_422"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"442",
+				"gradient_value":	36.78125,
+				"region_name":	"region_423"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"443",
+				"gradient_value":	37.40625,
+				"region_name":	"region_424"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"444",
+				"gradient_value":	35.625,
+				"region_name":	"region_425"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"445",
+				"gradient_value":	32.71875,
+				"region_name":	"region_426"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"446",
+				"gradient_value":	41.671875,
+				"region_name":	"region_427"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"447",
+				"gradient_value":	43.515625,
+				"region_name":	"region_428"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"448",
+				"gradient_value":	143.046875,
+				"region_name":	"region_429"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"450",
+				"gradient_value":	202.515625,
+				"region_name":	"region_430"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"451",
+				"gradient_value":	171.390625,
+				"region_name":	"region_431"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"452",
+				"gradient_value":	175.8125,
+				"region_name":	"region_432"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"453",
+				"gradient_value":	162.046875,
+				"region_name":	"region_433"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"454",
+				"gradient_value":	111.859375,
+				"region_name":	"region_434"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"455",
+				"gradient_value":	131.5625,
+				"region_name":	"region_435"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"456",
+				"gradient_value":	91.21875,
+				"region_name":	"region_436"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"457",
+				"gradient_value":	74.703125,
+				"region_name":	"region_437"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"458",
+				"gradient_value":	67.953125,
+				"region_name":	"region_438"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"459",
+				"gradient_value":	63.359375,
+				"region_name":	"region_439"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"461",
+				"gradient_value":	61.3125,
+				"region_name":	"region_440"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"462",
+				"gradient_value":	49.921875,
+				"region_name":	"region_441"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"463",
+				"gradient_value":	101.71875,
+				"region_name":	"region_442"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"464",
+				"gradient_value":	114.34375,
+				"region_name":	"region_443"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"465",
+				"gradient_value":	105.484375,
+				"region_name":	"region_444"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"466",
+				"gradient_value":	54.015625,
+				"region_name":	"region_445"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"467",
+				"gradient_value":	27.578125,
+				"region_name":	"region_446"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"468",
+				"gradient_value":	27.734375,
+				"region_name":	"region_447"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"469",
+				"gradient_value":	28.3125,
+				"region_name":	"region_448"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"470",
+				"gradient_value":	25.46875,
+				"region_name":	"region_449"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"472",
+				"gradient_value":	27.953125,
+				"region_name":	"region_450"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"473",
+				"gradient_value":	34.296875,
+				"region_name":	"region_451"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"474",
+				"gradient_value":	31.90625,
+				"region_name":	"region_452"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"475",
+				"gradient_value":	34.828125,
+				"region_name":	"region_453"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"476",
+				"gradient_value":	40.296875,
+				"region_name":	"region_454"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"477",
+				"gradient_value":	34.1875,
+				"region_name":	"region_455"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"478",
+				"gradient_value":	31.125,
+				"region_name":	"region_456"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"479",
+				"gradient_value":	36.0625,
+				"region_name":	"region_457"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"480",
+				"gradient_value":	40.6875,
+				"region_name":	"region_458"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"481",
+				"gradient_value":	142.921875,
+				"region_name":	"region_459"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"483",
+				"gradient_value":	204.328125,
+				"region_name":	"region_460"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"484",
+				"gradient_value":	140.6875,
+				"region_name":	"region_461"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"485",
+				"gradient_value":	172.4375,
+				"region_name":	"region_462"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"486",
+				"gradient_value":	193,
+				"region_name":	"region_463"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"487",
+				"gradient_value":	181.859375,
+				"region_name":	"region_464"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"488",
+				"gradient_value":	148.9375,
+				"region_name":	"region_465"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"489",
+				"gradient_value":	90.234375,
+				"region_name":	"region_466"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"490",
+				"gradient_value":	82.953125,
+				"region_name":	"region_467"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"491",
+				"gradient_value":	72.21875,
+				"region_name":	"region_468"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"492",
+				"gradient_value":	70.03125,
+				"region_name":	"region_469"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"494",
+				"gradient_value":	57.328125,
+				"region_name":	"region_470"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"495",
+				"gradient_value":	48.859375,
+				"region_name":	"region_471"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"496",
+				"gradient_value":	95.1875,
+				"region_name":	"region_472"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"497",
+				"gradient_value":	133.875,
+				"region_name":	"region_473"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"498",
+				"gradient_value":	100.078125,
+				"region_name":	"region_474"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"499",
+				"gradient_value":	63.796875,
+				"region_name":	"region_475"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"500",
+				"gradient_value":	23.484375,
+				"region_name":	"region_476"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"501",
+				"gradient_value":	29.140625,
+				"region_name":	"region_477"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"502",
+				"gradient_value":	28.46875,
+				"region_name":	"region_478"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"503",
+				"gradient_value":	26.171875,
+				"region_name":	"region_479"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"505",
+				"gradient_value":	28.890625,
+				"region_name":	"region_480"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"506",
+				"gradient_value":	36.359375,
+				"region_name":	"region_481"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"507",
+				"gradient_value":	28.5,
+				"region_name":	"region_482"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"508",
+				"gradient_value":	34.828125,
+				"region_name":	"region_483"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"509",
+				"gradient_value":	36.328125,
+				"region_name":	"region_484"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"510",
+				"gradient_value":	36.828125,
+				"region_name":	"region_485"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"511",
+				"gradient_value":	32.890625,
+				"region_name":	"region_486"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"512",
+				"gradient_value":	30.890625,
+				"region_name":	"region_487"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"513",
+				"gradient_value":	40.171875,
+				"region_name":	"region_488"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"514",
+				"gradient_value":	121.90625,
+				"region_name":	"region_489"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"516",
+				"gradient_value":	172.78125,
+				"region_name":	"region_490"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"517",
+				"gradient_value":	108.296875,
+				"region_name":	"region_491"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"518",
+				"gradient_value":	148.765625,
+				"region_name":	"region_492"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"519",
+				"gradient_value":	189.40625,
+				"region_name":	"region_493"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"520",
+				"gradient_value":	170.375,
+				"region_name":	"region_494"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"521",
+				"gradient_value":	119.859375,
+				"region_name":	"region_495"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"522",
+				"gradient_value":	85.921875,
+				"region_name":	"region_496"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"523",
+				"gradient_value":	85.921875,
+				"region_name":	"region_497"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"524",
+				"gradient_value":	74.609375,
+				"region_name":	"region_498"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"525",
+				"gradient_value":	70.03125,
+				"region_name":	"region_499"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"528",
+				"gradient_value":	46.921875,
+				"region_name":	"region_500"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"529",
+				"gradient_value":	36.953125,
+				"region_name":	"region_501"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"530",
+				"gradient_value":	82.28125,
+				"region_name":	"region_502"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"531",
+				"gradient_value":	144.234375,
+				"region_name":	"region_503"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"532",
+				"gradient_value":	119.796875,
+				"region_name":	"region_504"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"533",
+				"gradient_value":	71.015625,
+				"region_name":	"region_505"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"534",
+				"gradient_value":	32.1875,
+				"region_name":	"region_506"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"535",
+				"gradient_value":	26.421875,
+				"region_name":	"region_507"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"536",
+				"gradient_value":	27.21875,
+				"region_name":	"region_508"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"537",
+				"gradient_value":	23.96875,
+				"region_name":	"region_509"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"539",
+				"gradient_value":	29.71875,
+				"region_name":	"region_510"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"540",
+				"gradient_value":	30.03125,
+				"region_name":	"region_511"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"541",
+				"gradient_value":	25.546875,
+				"region_name":	"region_512"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"542",
+				"gradient_value":	32.453125,
+				"region_name":	"region_513"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"543",
+				"gradient_value":	38.171875,
+				"region_name":	"region_514"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"544",
+				"gradient_value":	37,
+				"region_name":	"region_515"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"545",
+				"gradient_value":	34.171875,
+				"region_name":	"region_516"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"546",
+				"gradient_value":	31.078125,
+				"region_name":	"region_517"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"547",
+				"gradient_value":	36.28125,
+				"region_name":	"region_518"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"548",
+				"gradient_value":	86.953125,
+				"region_name":	"region_519"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"550",
+				"gradient_value":	204.5625,
+				"region_name":	"region_520"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"551",
+				"gradient_value":	131.234375,
+				"region_name":	"region_521"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"552",
+				"gradient_value":	158.0625,
+				"region_name":	"region_522"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"553",
+				"gradient_value":	178.515625,
+				"region_name":	"region_523"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"554",
+				"gradient_value":	152.296875,
+				"region_name":	"region_524"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"555",
+				"gradient_value":	107.28125,
+				"region_name":	"region_525"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"556",
+				"gradient_value":	91.1875,
+				"region_name":	"region_526"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"557",
+				"gradient_value":	86.5,
+				"region_name":	"region_527"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"558",
+				"gradient_value":	77.421875,
+				"region_name":	"region_528"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"559",
+				"gradient_value":	52.5,
+				"region_name":	"region_529"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"561",
+				"gradient_value":	34.734375,
+				"region_name":	"region_530"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"562",
+				"gradient_value":	36.0625,
+				"region_name":	"region_531"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"563",
+				"gradient_value":	81.015625,
+				"region_name":	"region_532"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"564",
+				"gradient_value":	160.046875,
+				"region_name":	"region_533"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"565",
+				"gradient_value":	153.96875,
+				"region_name":	"region_534"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"566",
+				"gradient_value":	84.390625,
+				"region_name":	"region_535"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"567",
+				"gradient_value":	44.234375,
+				"region_name":	"region_536"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"568",
+				"gradient_value":	26.90625,
+				"region_name":	"region_537"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"569",
+				"gradient_value":	25.078125,
+				"region_name":	"region_538"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"570",
+				"gradient_value":	27.203125,
+				"region_name":	"region_539"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"572",
+				"gradient_value":	29.890625,
+				"region_name":	"region_540"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"573",
+				"gradient_value":	33.84375,
+				"region_name":	"region_541"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"574",
+				"gradient_value":	28.9375,
+				"region_name":	"region_542"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"575",
+				"gradient_value":	31.65625,
+				"region_name":	"region_543"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"576",
+				"gradient_value":	39.21875,
+				"region_name":	"region_544"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"577",
+				"gradient_value":	38.078125,
+				"region_name":	"region_545"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"578",
+				"gradient_value":	35.875,
+				"region_name":	"region_546"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"579",
+				"gradient_value":	34.46875,
+				"region_name":	"region_547"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"580",
+				"gradient_value":	38.34375,
+				"region_name":	"region_548"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"581",
+				"gradient_value":	47.71875,
+				"region_name":	"region_549"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"583",
+				"gradient_value":	151.671875,
+				"region_name":	"region_550"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"584",
+				"gradient_value":	128.59375,
+				"region_name":	"region_551"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"585",
+				"gradient_value":	131.515625,
+				"region_name":	"region_552"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"586",
+				"gradient_value":	158.96875,
+				"region_name":	"region_553"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"587",
+				"gradient_value":	130.96875,
+				"region_name":	"region_554"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"588",
+				"gradient_value":	111.171875,
+				"region_name":	"region_555"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"589",
+				"gradient_value":	108.375,
+				"region_name":	"region_556"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"590",
+				"gradient_value":	91.515625,
+				"region_name":	"region_557"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"591",
+				"gradient_value":	79.75,
+				"region_name":	"region_558"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"592",
+				"gradient_value":	49,
+				"region_name":	"region_559"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"594",
+				"gradient_value":	33.21875,
+				"region_name":	"region_560"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"595",
+				"gradient_value":	33.609375,
+				"region_name":	"region_561"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"596",
+				"gradient_value":	81.21875,
+				"region_name":	"region_562"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"597",
+				"gradient_value":	178.65625,
+				"region_name":	"region_563"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"598",
+				"gradient_value":	157.453125,
+				"region_name":	"region_564"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"599",
+				"gradient_value":	102.25,
+				"region_name":	"region_565"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"600",
+				"gradient_value":	76.375,
+				"region_name":	"region_566"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"601",
+				"gradient_value":	29.65625,
+				"region_name":	"region_567"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"602",
+				"gradient_value":	26.5625,
+				"region_name":	"region_568"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"603",
+				"gradient_value":	28,
+				"region_name":	"region_569"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"605",
+				"gradient_value":	32.390625,
+				"region_name":	"region_570"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"606",
+				"gradient_value":	35.28125,
+				"region_name":	"region_571"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"607",
+				"gradient_value":	31.8125,
+				"region_name":	"region_572"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"608",
+				"gradient_value":	31.53125,
+				"region_name":	"region_573"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"609",
+				"gradient_value":	36.265625,
+				"region_name":	"region_574"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"610",
+				"gradient_value":	36.28125,
+				"region_name":	"region_575"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"611",
+				"gradient_value":	36.984375,
+				"region_name":	"region_576"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"612",
+				"gradient_value":	35.34375,
+				"region_name":	"region_577"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"613",
+				"gradient_value":	40.5625,
+				"region_name":	"region_578"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"614",
+				"gradient_value":	42.59375,
+				"region_name":	"region_579"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"616",
+				"gradient_value":	130.9375,
+				"region_name":	"region_580"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"617",
+				"gradient_value":	159.78125,
+				"region_name":	"region_581"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"618",
+				"gradient_value":	136.0625,
+				"region_name":	"region_582"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"619",
+				"gradient_value":	151.125,
+				"region_name":	"region_583"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"620",
+				"gradient_value":	129.140625,
+				"region_name":	"region_584"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"621",
+				"gradient_value":	122.671875,
+				"region_name":	"region_585"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"622",
+				"gradient_value":	119.953125,
+				"region_name":	"region_586"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"623",
+				"gradient_value":	93.03125,
+				"region_name":	"region_587"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"624",
+				"gradient_value":	123.359375,
+				"region_name":	"region_588"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"625",
+				"gradient_value":	60.734375,
+				"region_name":	"region_589"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"627",
+				"gradient_value":	45.984375,
+				"region_name":	"region_590"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"628",
+				"gradient_value":	49.59375,
+				"region_name":	"region_591"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"629",
+				"gradient_value":	71.765625,
+				"region_name":	"region_592"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"630",
+				"gradient_value":	182.796875,
+				"region_name":	"region_593"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"631",
+				"gradient_value":	155.96875,
+				"region_name":	"region_594"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"632",
+				"gradient_value":	126.09375,
+				"region_name":	"region_595"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"633",
+				"gradient_value":	90.03125,
+				"region_name":	"region_596"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"634",
+				"gradient_value":	35.515625,
+				"region_name":	"region_597"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"635",
+				"gradient_value":	31.125,
+				"region_name":	"region_598"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"636",
+				"gradient_value":	31.421875,
+				"region_name":	"region_599"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"639",
+				"gradient_value":	37.53125,
+				"region_name":	"region_600"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"640",
+				"gradient_value":	37.984375,
+				"region_name":	"region_601"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"641",
+				"gradient_value":	34.421875,
+				"region_name":	"region_602"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"642",
+				"gradient_value":	37.53125,
+				"region_name":	"region_603"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"643",
+				"gradient_value":	37.546875,
+				"region_name":	"region_604"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"644",
+				"gradient_value":	33.0625,
+				"region_name":	"region_605"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"645",
+				"gradient_value":	35.640625,
+				"region_name":	"region_606"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"646",
+				"gradient_value":	34.609375,
+				"region_name":	"region_607"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"647",
+				"gradient_value":	34.828125,
+				"region_name":	"region_608"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"648",
+				"gradient_value":	40.046875,
+				"region_name":	"region_609"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"650",
+				"gradient_value":	66.09375,
+				"region_name":	"region_610"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"651",
+				"gradient_value":	169.265625,
+				"region_name":	"region_611"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"652",
+				"gradient_value":	144.703125,
+				"region_name":	"region_612"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"653",
+				"gradient_value":	129.546875,
+				"region_name":	"region_613"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"654",
+				"gradient_value":	122.703125,
+				"region_name":	"region_614"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"655",
+				"gradient_value":	119.03125,
+				"region_name":	"region_615"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"656",
+				"gradient_value":	103.390625,
+				"region_name":	"region_616"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"657",
+				"gradient_value":	101.78125,
+				"region_name":	"region_617"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"658",
+				"gradient_value":	135.765625,
+				"region_name":	"region_618"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"659",
+				"gradient_value":	158.75,
+				"region_name":	"region_619"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"661",
+				"gradient_value":	157.109375,
+				"region_name":	"region_620"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"662",
+				"gradient_value":	128,
+				"region_name":	"region_621"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"663",
+				"gradient_value":	90.5625,
+				"region_name":	"region_622"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"664",
+				"gradient_value":	169.265625,
+				"region_name":	"region_623"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"665",
+				"gradient_value":	157.796875,
+				"region_name":	"region_624"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"666",
+				"gradient_value":	142.78125,
+				"region_name":	"region_625"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"667",
+				"gradient_value":	102.34375,
+				"region_name":	"region_626"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"668",
+				"gradient_value":	41.1875,
+				"region_name":	"region_627"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"669",
+				"gradient_value":	32.125,
+				"region_name":	"region_628"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"670",
+				"gradient_value":	27.90625,
+				"region_name":	"region_629"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"672",
+				"gradient_value":	34.046875,
+				"region_name":	"region_630"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"673",
+				"gradient_value":	39.796875,
+				"region_name":	"region_631"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"674",
+				"gradient_value":	36.703125,
+				"region_name":	"region_632"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"675",
+				"gradient_value":	33.703125,
+				"region_name":	"region_633"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"676",
+				"gradient_value":	36.921875,
+				"region_name":	"region_634"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"677",
+				"gradient_value":	33.125,
+				"region_name":	"region_635"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"678",
+				"gradient_value":	33.265625,
+				"region_name":	"region_636"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"679",
+				"gradient_value":	34.171875,
+				"region_name":	"region_637"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"680",
+				"gradient_value":	32.75,
+				"region_name":	"region_638"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"681",
+				"gradient_value":	38.9375,
+				"region_name":	"region_639"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"683",
+				"gradient_value":	39.90625,
+				"region_name":	"region_640"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"684",
+				"gradient_value":	38.203125,
+				"region_name":	"region_641"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"685",
+				"gradient_value":	51.796875,
+				"region_name":	"region_642"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"686",
+				"gradient_value":	39.953125,
+				"region_name":	"region_643"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"687",
+				"gradient_value":	131.828125,
+				"region_name":	"region_644"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"688",
+				"gradient_value":	162.640625,
+				"region_name":	"region_645"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"689",
+				"gradient_value":	213.171875,
+				"region_name":	"region_646"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"690",
+				"gradient_value":	232.25,
+				"region_name":	"region_647"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"691",
+				"gradient_value":	187.03125,
+				"region_name":	"region_648"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"692",
+				"gradient_value":	123.5,
+				"region_name":	"region_649"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"694",
+				"gradient_value":	78.546875,
+				"region_name":	"region_650"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"695",
+				"gradient_value":	75.390625,
+				"region_name":	"region_651"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"696",
+				"gradient_value":	72.3125,
+				"region_name":	"region_652"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"697",
+				"gradient_value":	184.234375,
+				"region_name":	"region_653"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"698",
+				"gradient_value":	144.90625,
+				"region_name":	"region_654"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"699",
+				"gradient_value":	159.578125,
+				"region_name":	"region_655"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"700",
+				"gradient_value":	94.53125,
+				"region_name":	"region_656"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"701",
+				"gradient_value":	54.65625,
+				"region_name":	"region_657"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"702",
+				"gradient_value":	33.1875,
+				"region_name":	"region_658"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"703",
+				"gradient_value":	27.703125,
+				"region_name":	"region_659"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"705",
+				"gradient_value":	33.421875,
+				"region_name":	"region_660"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"706",
+				"gradient_value":	35.265625,
+				"region_name":	"region_661"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"707",
+				"gradient_value":	34.90625,
+				"region_name":	"region_662"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"708",
+				"gradient_value":	35.578125,
+				"region_name":	"region_663"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"709",
+				"gradient_value":	37.25,
+				"region_name":	"region_664"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"710",
+				"gradient_value":	36.3125,
+				"region_name":	"region_665"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"711",
+				"gradient_value":	34.09375,
+				"region_name":	"region_666"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"712",
+				"gradient_value":	33.828125,
+				"region_name":	"region_667"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"713",
+				"gradient_value":	30.71875,
+				"region_name":	"region_668"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"714",
+				"gradient_value":	36.484375,
+				"region_name":	"region_669"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"716",
+				"gradient_value":	35.359375,
+				"region_name":	"region_670"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"717",
+				"gradient_value":	39.328125,
+				"region_name":	"region_671"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"718",
+				"gradient_value":	39.359375,
+				"region_name":	"region_672"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"719",
+				"gradient_value":	33.734375,
+				"region_name":	"region_673"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"720",
+				"gradient_value":	139.109375,
+				"region_name":	"region_674"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"721",
+				"gradient_value":	235,
+				"region_name":	"region_675"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"722",
+				"gradient_value":	199.8125,
+				"region_name":	"region_676"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"723",
+				"gradient_value":	126.5,
+				"region_name":	"region_677"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"724",
+				"gradient_value":	87.984375,
+				"region_name":	"region_678"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"725",
+				"gradient_value":	70.21875,
+				"region_name":	"region_679"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"727",
+				"gradient_value":	68.671875,
+				"region_name":	"region_680"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"728",
+				"gradient_value":	63.140625,
+				"region_name":	"region_681"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"729",
+				"gradient_value":	57.34375,
+				"region_name":	"region_682"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"730",
+				"gradient_value":	162.875,
+				"region_name":	"region_683"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"731",
+				"gradient_value":	155,
+				"region_name":	"region_684"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"732",
+				"gradient_value":	155.6875,
+				"region_name":	"region_685"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"733",
+				"gradient_value":	93.921875,
+				"region_name":	"region_686"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"734",
+				"gradient_value":	75.28125,
+				"region_name":	"region_687"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"735",
+				"gradient_value":	34.5625,
+				"region_name":	"region_688"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"736",
+				"gradient_value":	29.171875,
+				"region_name":	"region_689"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"738",
+				"gradient_value":	29.265625,
+				"region_name":	"region_690"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"739",
+				"gradient_value":	30.359375,
+				"region_name":	"region_691"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"740",
+				"gradient_value":	27.5,
+				"region_name":	"region_692"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"741",
+				"gradient_value":	27.671875,
+				"region_name":	"region_693"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"742",
+				"gradient_value":	30.015625,
+				"region_name":	"region_694"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"743",
+				"gradient_value":	33.578125,
+				"region_name":	"region_695"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"744",
+				"gradient_value":	33.71875,
+				"region_name":	"region_696"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"745",
+				"gradient_value":	33.921875,
+				"region_name":	"region_697"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"746",
+				"gradient_value":	31.609375,
+				"region_name":	"region_698"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"747",
+				"gradient_value":	30.40625,
+				"region_name":	"region_699"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"750",
+				"gradient_value":	34.015625,
+				"region_name":	"region_700"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"751",
+				"gradient_value":	34.875,
+				"region_name":	"region_701"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"752",
+				"gradient_value":	33.34375,
+				"region_name":	"region_702"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"753",
+				"gradient_value":	83.125,
+				"region_name":	"region_703"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"754",
+				"gradient_value":	220.59375,
+				"region_name":	"region_704"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"755",
+				"gradient_value":	171.15625,
+				"region_name":	"region_705"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"756",
+				"gradient_value":	161.875,
+				"region_name":	"region_706"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"757",
+				"gradient_value":	123.703125,
+				"region_name":	"region_707"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"758",
+				"gradient_value":	84.21875,
+				"region_name":	"region_708"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"759",
+				"gradient_value":	64.25,
+				"region_name":	"region_709"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"761",
+				"gradient_value":	63.921875,
+				"region_name":	"region_710"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"762",
+				"gradient_value":	64.484375,
+				"region_name":	"region_711"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"763",
+				"gradient_value":	58.09375,
+				"region_name":	"region_712"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"764",
+				"gradient_value":	156.171875,
+				"region_name":	"region_713"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"765",
+				"gradient_value":	183.40625,
+				"region_name":	"region_714"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"766",
+				"gradient_value":	131.5,
+				"region_name":	"region_715"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"767",
+				"gradient_value":	91.140625,
+				"region_name":	"region_716"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"768",
+				"gradient_value":	112.390625,
+				"region_name":	"region_717"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"769",
+				"gradient_value":	44.625,
+				"region_name":	"region_718"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"770",
+				"gradient_value":	28.6875,
+				"region_name":	"region_719"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"772",
+				"gradient_value":	26.96875,
+				"region_name":	"region_720"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"773",
+				"gradient_value":	26.9375,
+				"region_name":	"region_721"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"774",
+				"gradient_value":	27.8125,
+				"region_name":	"region_722"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"775",
+				"gradient_value":	26.296875,
+				"region_name":	"region_723"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"776",
+				"gradient_value":	30.90625,
+				"region_name":	"region_724"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"777",
+				"gradient_value":	28.171875,
+				"region_name":	"region_725"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"778",
+				"gradient_value":	32.484375,
+				"region_name":	"region_726"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"779",
+				"gradient_value":	31.140625,
+				"region_name":	"region_727"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"780",
+				"gradient_value":	32.9375,
+				"region_name":	"region_728"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"781",
+				"gradient_value":	30.78125,
+				"region_name":	"region_729"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"783",
+				"gradient_value":	30.578125,
+				"region_name":	"region_730"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"784",
+				"gradient_value":	30.203125,
+				"region_name":	"region_731"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"785",
+				"gradient_value":	34.28125,
+				"region_name":	"region_732"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"786",
+				"gradient_value":	129.5,
+				"region_name":	"region_733"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"787",
+				"gradient_value":	158.421875,
+				"region_name":	"region_734"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"788",
+				"gradient_value":	165.359375,
+				"region_name":	"region_735"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"789",
+				"gradient_value":	155.625,
+				"region_name":	"region_736"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"790",
+				"gradient_value":	110.3125,
+				"region_name":	"region_737"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"791",
+				"gradient_value":	79.5625,
+				"region_name":	"region_738"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"792",
+				"gradient_value":	59.296875,
+				"region_name":	"region_739"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"794",
+				"gradient_value":	62.046875,
+				"region_name":	"region_740"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"795",
+				"gradient_value":	66.203125,
+				"region_name":	"region_741"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"796",
+				"gradient_value":	62.125,
+				"region_name":	"region_742"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"797",
+				"gradient_value":	143.734375,
+				"region_name":	"region_743"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"798",
+				"gradient_value":	187.375,
+				"region_name":	"region_744"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"799",
+				"gradient_value":	142.234375,
+				"region_name":	"region_745"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"800",
+				"gradient_value":	115.0625,
+				"region_name":	"region_746"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"801",
+				"gradient_value":	176.078125,
+				"region_name":	"region_747"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"802",
+				"gradient_value":	55.625,
+				"region_name":	"region_748"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"803",
+				"gradient_value":	24.90625,
+				"region_name":	"region_749"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"805",
+				"gradient_value":	23.28125,
+				"region_name":	"region_750"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"806",
+				"gradient_value":	26.171875,
+				"region_name":	"region_751"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"807",
+				"gradient_value":	23.65625,
+				"region_name":	"region_752"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"808",
+				"gradient_value":	27.6875,
+				"region_name":	"region_753"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"809",
+				"gradient_value":	32.265625,
+				"region_name":	"region_754"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"810",
+				"gradient_value":	28.46875,
+				"region_name":	"region_755"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"811",
+				"gradient_value":	33.453125,
+				"region_name":	"region_756"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"812",
+				"gradient_value":	30.953125,
+				"region_name":	"region_757"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"813",
+				"gradient_value":	30.953125,
+				"region_name":	"region_758"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"814",
+				"gradient_value":	27.546875,
+				"region_name":	"region_759"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"816",
+				"gradient_value":	26.0625,
+				"region_name":	"region_760"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"817",
+				"gradient_value":	28.390625,
+				"region_name":	"region_761"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"818",
+				"gradient_value":	35.640625,
+				"region_name":	"region_762"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"819",
+				"gradient_value":	137.875,
+				"region_name":	"region_763"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"820",
+				"gradient_value":	158.203125,
+				"region_name":	"region_764"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"821",
+				"gradient_value":	159.4375,
+				"region_name":	"region_765"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"822",
+				"gradient_value":	151.578125,
+				"region_name":	"region_766"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"823",
+				"gradient_value":	128.40625,
+				"region_name":	"region_767"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"824",
+				"gradient_value":	73.078125,
+				"region_name":	"region_768"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"825",
+				"gradient_value":	64.3125,
+				"region_name":	"region_769"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"827",
+				"gradient_value":	62.140625,
+				"region_name":	"region_770"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"828",
+				"gradient_value":	63.9375,
+				"region_name":	"region_771"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"829",
+				"gradient_value":	55.5,
+				"region_name":	"region_772"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"830",
+				"gradient_value":	125.078125,
+				"region_name":	"region_773"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"831",
+				"gradient_value":	184.1875,
+				"region_name":	"region_774"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"832",
+				"gradient_value":	144.78125,
+				"region_name":	"region_775"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"833",
+				"gradient_value":	127.828125,
+				"region_name":	"region_776"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"834",
+				"gradient_value":	196.265625,
+				"region_name":	"region_777"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"835",
+				"gradient_value":	78.34375,
+				"region_name":	"region_778"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"836",
+				"gradient_value":	27.453125,
+				"region_name":	"region_779"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"838",
+				"gradient_value":	23.359375,
+				"region_name":	"region_780"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"839",
+				"gradient_value":	26.84375,
+				"region_name":	"region_781"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"840",
+				"gradient_value":	23.21875,
+				"region_name":	"region_782"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"841",
+				"gradient_value":	27.53125,
+				"region_name":	"region_783"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"842",
+				"gradient_value":	32.421875,
+				"region_name":	"region_784"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"843",
+				"gradient_value":	32.34375,
+				"region_name":	"region_785"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"844",
+				"gradient_value":	30.046875,
+				"region_name":	"region_786"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"845",
+				"gradient_value":	31.15625,
+				"region_name":	"region_787"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"846",
+				"gradient_value":	29.21875,
+				"region_name":	"region_788"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"847",
+				"gradient_value":	28.015625,
+				"region_name":	"region_789"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"849",
+				"gradient_value":	28.34375,
+				"region_name":	"region_790"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"850",
+				"gradient_value":	27.78125,
+				"region_name":	"region_791"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"851",
+				"gradient_value":	73.109375,
+				"region_name":	"region_792"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"852",
+				"gradient_value":	144.375,
+				"region_name":	"region_793"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"853",
+				"gradient_value":	140.078125,
+				"region_name":	"region_794"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"854",
+				"gradient_value":	152.53125,
+				"region_name":	"region_795"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"855",
+				"gradient_value":	164.828125,
+				"region_name":	"region_796"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"856",
+				"gradient_value":	160.171875,
+				"region_name":	"region_797"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"857",
+				"gradient_value":	89.03125,
+				"region_name":	"region_798"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"858",
+				"gradient_value":	79.453125,
+				"region_name":	"region_799"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"861",
+				"gradient_value":	69.078125,
+				"region_name":	"region_800"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"862",
+				"gradient_value":	64.78125,
+				"region_name":	"region_801"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"863",
+				"gradient_value":	47.546875,
+				"region_name":	"region_802"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"864",
+				"gradient_value":	115.125,
+				"region_name":	"region_803"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"865",
+				"gradient_value":	184.234375,
+				"region_name":	"region_804"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"866",
+				"gradient_value":	137.140625,
+				"region_name":	"region_805"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"867",
+				"gradient_value":	121.078125,
+				"region_name":	"region_806"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"868",
+				"gradient_value":	170.09375,
+				"region_name":	"region_807"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"869",
+				"gradient_value":	63.78125,
+				"region_name":	"region_808"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"870",
+				"gradient_value":	31.40625,
+				"region_name":	"region_809"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"872",
+				"gradient_value":	24.890625,
+				"region_name":	"region_810"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"873",
+				"gradient_value":	26.328125,
+				"region_name":	"region_811"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"874",
+				"gradient_value":	24.859375,
+				"region_name":	"region_812"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"875",
+				"gradient_value":	25.40625,
+				"region_name":	"region_813"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"876",
+				"gradient_value":	30.0625,
+				"region_name":	"region_814"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"877",
+				"gradient_value":	30.1875,
+				"region_name":	"region_815"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"878",
+				"gradient_value":	27.09375,
+				"region_name":	"region_816"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"879",
+				"gradient_value":	25.59375,
+				"region_name":	"region_817"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"880",
+				"gradient_value":	29.84375,
+				"region_name":	"region_818"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"881",
+				"gradient_value":	30.203125,
+				"region_name":	"region_819"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"883",
+				"gradient_value":	29.359375,
+				"region_name":	"region_820"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"884",
+				"gradient_value":	31.15625,
+				"region_name":	"region_821"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"885",
+				"gradient_value":	120.390625,
+				"region_name":	"region_822"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"886",
+				"gradient_value":	140.921875,
+				"region_name":	"region_823"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"887",
+				"gradient_value":	150.9375,
+				"region_name":	"region_824"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"888",
+				"gradient_value":	158.546875,
+				"region_name":	"region_825"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"889",
+				"gradient_value":	155.609375,
+				"region_name":	"region_826"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"890",
+				"gradient_value":	153.65625,
+				"region_name":	"region_827"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"891",
+				"gradient_value":	102.734375,
+				"region_name":	"region_828"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"892",
+				"gradient_value":	87.78125,
+				"region_name":	"region_829"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"894",
+				"gradient_value":	83.765625,
+				"region_name":	"region_830"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"895",
+				"gradient_value":	75.078125,
+				"region_name":	"region_831"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"896",
+				"gradient_value":	52.359375,
+				"region_name":	"region_832"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"897",
+				"gradient_value":	106,
+				"region_name":	"region_833"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"898",
+				"gradient_value":	151.90625,
+				"region_name":	"region_834"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"899",
+				"gradient_value":	113.125,
+				"region_name":	"region_835"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"900",
+				"gradient_value":	39.296875,
+				"region_name":	"region_836"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"901",
+				"gradient_value":	36.515625,
+				"region_name":	"region_837"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"902",
+				"gradient_value":	34.6875,
+				"region_name":	"region_838"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"903",
+				"gradient_value":	33.859375,
+				"region_name":	"region_839"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"905",
+				"gradient_value":	26.59375,
+				"region_name":	"region_840"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"906",
+				"gradient_value":	27.75,
+				"region_name":	"region_841"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"907",
+				"gradient_value":	27.859375,
+				"region_name":	"region_842"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"908",
+				"gradient_value":	26.8125,
+				"region_name":	"region_843"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"909",
+				"gradient_value":	28.75,
+				"region_name":	"region_844"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"910",
+				"gradient_value":	28.59375,
+				"region_name":	"region_845"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"911",
+				"gradient_value":	26.171875,
+				"region_name":	"region_846"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"912",
+				"gradient_value":	27.109375,
+				"region_name":	"region_847"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"913",
+				"gradient_value":	27.5,
+				"region_name":	"region_848"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"914",
+				"gradient_value":	30.234375,
+				"region_name":	"region_849"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"916",
+				"gradient_value":	28.546875,
+				"region_name":	"region_850"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"917",
+				"gradient_value":	31.0625,
+				"region_name":	"region_851"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"918",
+				"gradient_value":	136.71875,
+				"region_name":	"region_852"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"919",
+				"gradient_value":	156.59375,
+				"region_name":	"region_853"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"920",
+				"gradient_value":	165.046875,
+				"region_name":	"region_854"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"921",
+				"gradient_value":	154.046875,
+				"region_name":	"region_855"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"922",
+				"gradient_value":	141.5625,
+				"region_name":	"region_856"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"923",
+				"gradient_value":	144.765625,
+				"region_name":	"region_857"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"924",
+				"gradient_value":	129.796875,
+				"region_name":	"region_858"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"925",
+				"gradient_value":	85.640625,
+				"region_name":	"region_859"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"927",
+				"gradient_value":	76.84375,
+				"region_name":	"region_860"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"928",
+				"gradient_value":	77.78125,
+				"region_name":	"region_861"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"929",
+				"gradient_value":	73.65625,
+				"region_name":	"region_862"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"930",
+				"gradient_value":	78.296875,
+				"region_name":	"region_863"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"931",
+				"gradient_value":	81.359375,
+				"region_name":	"region_864"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"932",
+				"gradient_value":	59.390625,
+				"region_name":	"region_865"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"933",
+				"gradient_value":	34.046875,
+				"region_name":	"region_866"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"934",
+				"gradient_value":	32.890625,
+				"region_name":	"region_867"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"935",
+				"gradient_value":	34.5,
+				"region_name":	"region_868"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"936",
+				"gradient_value":	29.140625,
+				"region_name":	"region_869"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"938",
+				"gradient_value":	25.15625,
+				"region_name":	"region_870"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"939",
+				"gradient_value":	29.453125,
+				"region_name":	"region_871"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"940",
+				"gradient_value":	29.265625,
+				"region_name":	"region_872"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"941",
+				"gradient_value":	27.890625,
+				"region_name":	"region_873"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"942",
+				"gradient_value":	28.453125,
+				"region_name":	"region_874"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"943",
+				"gradient_value":	28.03125,
+				"region_name":	"region_875"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"944",
+				"gradient_value":	25.875,
+				"region_name":	"region_876"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"945",
+				"gradient_value":	26.015625,
+				"region_name":	"region_877"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"946",
+				"gradient_value":	26.28125,
+				"region_name":	"region_878"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"947",
+				"gradient_value":	30.71875,
+				"region_name":	"region_879"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"949",
+				"gradient_value":	27.765625,
+				"region_name":	"region_880"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"950",
+				"gradient_value":	57.5,
+				"region_name":	"region_881"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"951",
+				"gradient_value":	149.703125,
+				"region_name":	"region_882"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"952",
+				"gradient_value":	169.578125,
+				"region_name":	"region_883"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"953",
+				"gradient_value":	171.859375,
+				"region_name":	"region_884"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"954",
+				"gradient_value":	139.640625,
+				"region_name":	"region_885"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"955",
+				"gradient_value":	131.34375,
+				"region_name":	"region_886"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"956",
+				"gradient_value":	133.453125,
+				"region_name":	"region_887"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"957",
+				"gradient_value":	133.9375,
+				"region_name":	"region_888"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"958",
+				"gradient_value":	92.546875,
+				"region_name":	"region_889"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"960",
+				"gradient_value":	73.296875,
+				"region_name":	"region_890"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"961",
+				"gradient_value":	70.0625,
+				"region_name":	"region_891"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"962",
+				"gradient_value":	78.078125,
+				"region_name":	"region_892"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"963",
+				"gradient_value":	69.921875,
+				"region_name":	"region_893"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"964",
+				"gradient_value":	35.40625,
+				"region_name":	"region_894"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"965",
+				"gradient_value":	30.046875,
+				"region_name":	"region_895"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"966",
+				"gradient_value":	29.65625,
+				"region_name":	"region_896"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"967",
+				"gradient_value":	31.421875,
+				"region_name":	"region_897"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"968",
+				"gradient_value":	30.90625,
+				"region_name":	"region_898"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"969",
+				"gradient_value":	25.34375,
+				"region_name":	"region_899"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"972",
+				"gradient_value":	26.375,
+				"region_name":	"region_900"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"973",
+				"gradient_value":	30.921875,
+				"region_name":	"region_901"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"974",
+				"gradient_value":	30.046875,
+				"region_name":	"region_902"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"975",
+				"gradient_value":	25.6875,
+				"region_name":	"region_903"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"976",
+				"gradient_value":	27.46875,
+				"region_name":	"region_904"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"977",
+				"gradient_value":	25.53125,
+				"region_name":	"region_905"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"978",
+				"gradient_value":	20.125,
+				"region_name":	"region_906"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"979",
+				"gradient_value":	23.5625,
+				"region_name":	"region_907"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"980",
+				"gradient_value":	29.984375,
+				"region_name":	"region_908"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"981",
+				"gradient_value":	31.859375,
+				"region_name":	"region_909"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"983",
+				"gradient_value":	30.921875,
+				"region_name":	"region_910"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"984",
+				"gradient_value":	121.1875,
+				"region_name":	"region_911"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"985",
+				"gradient_value":	153.6875,
+				"region_name":	"region_912"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"986",
+				"gradient_value":	152.375,
+				"region_name":	"region_913"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"987",
+				"gradient_value":	151.4375,
+				"region_name":	"region_914"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"988",
+				"gradient_value":	128.578125,
+				"region_name":	"region_915"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"989",
+				"gradient_value":	120.359375,
+				"region_name":	"region_916"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"990",
+				"gradient_value":	120.328125,
+				"region_name":	"region_917"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"991",
+				"gradient_value":	127.03125,
+				"region_name":	"region_918"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"992",
+				"gradient_value":	85.171875,
+				"region_name":	"region_919"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"994",
+				"gradient_value":	69.265625,
+				"region_name":	"region_920"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"995",
+				"gradient_value":	75.546875,
+				"region_name":	"region_921"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"996",
+				"gradient_value":	78.875,
+				"region_name":	"region_922"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"997",
+				"gradient_value":	72.890625,
+				"region_name":	"region_923"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"998",
+				"gradient_value":	54.46875,
+				"region_name":	"region_924"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"999",
+				"gradient_value":	31.140625,
+				"region_name":	"region_925"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1000",
+				"gradient_value":	32.78125,
+				"region_name":	"region_926"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1001",
+				"gradient_value":	30.828125,
+				"region_name":	"region_927"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1002",
+				"gradient_value":	27.09375,
+				"region_name":	"region_928"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1003",
+				"gradient_value":	23.515625,
+				"region_name":	"region_929"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1005",
+				"gradient_value":	25.625,
+				"region_name":	"region_930"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1006",
+				"gradient_value":	29.90625,
+				"region_name":	"region_931"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1007",
+				"gradient_value":	28.234375,
+				"region_name":	"region_932"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1008",
+				"gradient_value":	27.03125,
+				"region_name":	"region_933"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1009",
+				"gradient_value":	29.515625,
+				"region_name":	"region_934"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1010",
+				"gradient_value":	31.625,
+				"region_name":	"region_935"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1011",
+				"gradient_value":	28.984375,
+				"region_name":	"region_936"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1012",
+				"gradient_value":	24.15625,
+				"region_name":	"region_937"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1013",
+				"gradient_value":	29.0625,
+				"region_name":	"region_938"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1014",
+				"gradient_value":	31.046875,
+				"region_name":	"region_939"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1016",
+				"gradient_value":	61.625,
+				"region_name":	"region_940"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1017",
+				"gradient_value":	148.78125,
+				"region_name":	"region_941"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1018",
+				"gradient_value":	164.46875,
+				"region_name":	"region_942"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1019",
+				"gradient_value":	111.78125,
+				"region_name":	"region_943"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1020",
+				"gradient_value":	131.734375,
+				"region_name":	"region_944"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1021",
+				"gradient_value":	125.28125,
+				"region_name":	"region_945"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1022",
+				"gradient_value":	112.359375,
+				"region_name":	"region_946"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1023",
+				"gradient_value":	113.6875,
+				"region_name":	"region_947"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1024",
+				"gradient_value":	131.3125,
+				"region_name":	"region_948"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1025",
+				"gradient_value":	90.34375,
+				"region_name":	"region_949"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1027",
+				"gradient_value":	69.40625,
+				"region_name":	"region_950"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1028",
+				"gradient_value":	75.53125,
+				"region_name":	"region_951"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1029",
+				"gradient_value":	82.0625,
+				"region_name":	"region_952"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1030",
+				"gradient_value":	71.40625,
+				"region_name":	"region_953"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1031",
+				"gradient_value":	73.140625,
+				"region_name":	"region_954"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1032",
+				"gradient_value":	33.390625,
+				"region_name":	"region_955"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1033",
+				"gradient_value":	31.21875,
+				"region_name":	"region_956"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1034",
+				"gradient_value":	31.03125,
+				"region_name":	"region_957"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1035",
+				"gradient_value":	26.671875,
+				"region_name":	"region_958"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1036",
+				"gradient_value":	22.609375,
+				"region_name":	"region_959"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1038",
+				"gradient_value":	26.875,
+				"region_name":	"region_960"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1039",
+				"gradient_value":	26.609375,
+				"region_name":	"region_961"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1040",
+				"gradient_value":	24.609375,
+				"region_name":	"region_962"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1041",
+				"gradient_value":	29.1875,
+				"region_name":	"region_963"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1042",
+				"gradient_value":	30.609375,
+				"region_name":	"region_964"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1043",
+				"gradient_value":	27.546875,
+				"region_name":	"region_965"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1044",
+				"gradient_value":	27.328125,
+				"region_name":	"region_966"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1045",
+				"gradient_value":	26.5625,
+				"region_name":	"region_967"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1046",
+				"gradient_value":	26.640625,
+				"region_name":	"region_968"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1047",
+				"gradient_value":	32.96875,
+				"region_name":	"region_969"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1049",
+				"gradient_value":	119.59375,
+				"region_name":	"region_970"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1050",
+				"gradient_value":	156.234375,
+				"region_name":	"region_971"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1051",
+				"gradient_value":	162.28125,
+				"region_name":	"region_972"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1052",
+				"gradient_value":	106.90625,
+				"region_name":	"region_973"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1053",
+				"gradient_value":	132.75,
+				"region_name":	"region_974"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1054",
+				"gradient_value":	126.390625,
+				"region_name":	"region_975"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1055",
+				"gradient_value":	107.078125,
+				"region_name":	"region_976"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1056",
+				"gradient_value":	118.65625,
+				"region_name":	"region_977"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1057",
+				"gradient_value":	134.3125,
+				"region_name":	"region_978"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1058",
+				"gradient_value":	93.921875,
+				"region_name":	"region_979"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1060",
+				"gradient_value":	68.140625,
+				"region_name":	"region_980"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1061",
+				"gradient_value":	71.203125,
+				"region_name":	"region_981"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1062",
+				"gradient_value":	88.34375,
+				"region_name":	"region_982"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1063",
+				"gradient_value":	79.328125,
+				"region_name":	"region_983"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1064",
+				"gradient_value":	73.734375,
+				"region_name":	"region_984"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1065",
+				"gradient_value":	38.40625,
+				"region_name":	"region_985"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1066",
+				"gradient_value":	28.703125,
+				"region_name":	"region_986"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1067",
+				"gradient_value":	30.78125,
+				"region_name":	"region_987"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1068",
+				"gradient_value":	26.046875,
+				"region_name":	"region_988"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1069",
+				"gradient_value":	24.953125,
+				"region_name":	"region_989"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1071",
+				"gradient_value":	23.609375,
+				"region_name":	"region_990"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1072",
+				"gradient_value":	22.8125,
+				"region_name":	"region_991"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1073",
+				"gradient_value":	23.78125,
+				"region_name":	"region_992"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1074",
+				"gradient_value":	25.359375,
+				"region_name":	"region_993"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1075",
+				"gradient_value":	26.53125,
+				"region_name":	"region_994"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1076",
+				"gradient_value":	26.421875,
+				"region_name":	"region_995"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1077",
+				"gradient_value":	27.796875,
+				"region_name":	"region_996"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1078",
+				"gradient_value":	24.9375,
+				"region_name":	"region_997"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1079",
+				"gradient_value":	25.390625,
+				"region_name":	"region_998"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"1080",
+				"gradient_value":	56.28125,
+				"region_name":	"region_999"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"5",
+				"gradient_value":	147.765625,
+				"region_name":	"region_1000"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"6",
+				"gradient_value":	166.296875,
+				"region_name":	"region_1001"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"7",
+				"gradient_value":	150.78125,
+				"region_name":	"region_1002"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"8",
+				"gradient_value":	105.359375,
+				"region_name":	"region_1003"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"9",
+				"gradient_value":	130.3125,
+				"region_name":	"region_1004"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"10",
+				"gradient_value":	122.5625,
+				"region_name":	"region_1005"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"11",
+				"gradient_value":	104.453125,
+				"region_name":	"region_1006"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"12",
+				"gradient_value":	114.96875,
+				"region_name":	"region_1007"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"13",
+				"gradient_value":	128.53125,
+				"region_name":	"region_1008"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"14",
+				"gradient_value":	94.671875,
+				"region_name":	"region_1009"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"16",
+				"gradient_value":	68.46875,
+				"region_name":	"region_1010"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"17",
+				"gradient_value":	65.5,
+				"region_name":	"region_1011"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"18",
+				"gradient_value":	70.953125,
+				"region_name":	"region_1012"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"19",
+				"gradient_value":	70.59375,
+				"region_name":	"region_1013"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"20",
+				"gradient_value":	65.859375,
+				"region_name":	"region_1014"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"21",
+				"gradient_value":	44.875,
+				"region_name":	"region_1015"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"22",
+				"gradient_value":	30.09375,
+				"region_name":	"region_1016"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"23",
+				"gradient_value":	25.8125,
+				"region_name":	"region_1017"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"24",
+				"gradient_value":	23.21875,
+				"region_name":	"region_1018"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"25",
+				"gradient_value":	24.96875,
+				"region_name":	"region_1019"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"27",
+				"gradient_value":	24.25,
+				"region_name":	"region_1020"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"28",
+				"gradient_value":	22.671875,
+				"region_name":	"region_1021"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"29",
+				"gradient_value":	22.171875,
+				"region_name":	"region_1022"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"30",
+				"gradient_value":	19.84375,
+				"region_name":	"region_1023"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"31",
+				"gradient_value":	24.28125,
+				"region_name":	"region_1024"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"32",
+				"gradient_value":	21.078125,
+				"region_name":	"region_1025"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"33",
+				"gradient_value":	22.765625,
+				"region_name":	"region_1026"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"34",
+				"gradient_value":	21.671875,
+				"region_name":	"region_1027"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"35",
+				"gradient_value":	26.046875,
+				"region_name":	"region_1028"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"36",
+				"gradient_value":	102.46875,
+				"region_name":	"region_1029"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"38",
+				"gradient_value":	151.265625,
+				"region_name":	"region_1030"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"39",
+				"gradient_value":	163.03125,
+				"region_name":	"region_1031"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"40",
+				"gradient_value":	142.453125,
+				"region_name":	"region_1032"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"41",
+				"gradient_value":	106.59375,
+				"region_name":	"region_1033"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"42",
+				"gradient_value":	112.90625,
+				"region_name":	"region_1034"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"43",
+				"gradient_value":	120.890625,
+				"region_name":	"region_1035"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"44",
+				"gradient_value":	104.125,
+				"region_name":	"region_1036"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"45",
+				"gradient_value":	107.0625,
+				"region_name":	"region_1037"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"46",
+				"gradient_value":	120.765625,
+				"region_name":	"region_1038"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"47",
+				"gradient_value":	89.90625,
+				"region_name":	"region_1039"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"49",
+				"gradient_value":	62.671875,
+				"region_name":	"region_1040"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"50",
+				"gradient_value":	64.859375,
+				"region_name":	"region_1041"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"51",
+				"gradient_value":	64.765625,
+				"region_name":	"region_1042"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"52",
+				"gradient_value":	60.125,
+				"region_name":	"region_1043"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"53",
+				"gradient_value":	67.1875,
+				"region_name":	"region_1044"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"54",
+				"gradient_value":	51.0625,
+				"region_name":	"region_1045"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"55",
+				"gradient_value":	31.53125,
+				"region_name":	"region_1046"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"56",
+				"gradient_value":	26.046875,
+				"region_name":	"region_1047"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"57",
+				"gradient_value":	21.40625,
+				"region_name":	"region_1048"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"58",
+				"gradient_value":	25.625,
+				"region_name":	"region_1049"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"60",
+				"gradient_value":	24.78125,
+				"region_name":	"region_1050"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"61",
+				"gradient_value":	23.90625,
+				"region_name":	"region_1051"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"62",
+				"gradient_value":	25.65625,
+				"region_name":	"region_1052"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"63",
+				"gradient_value":	26.75,
+				"region_name":	"region_1053"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"64",
+				"gradient_value":	24.78125,
+				"region_name":	"region_1054"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"65",
+				"gradient_value":	23.90625,
+				"region_name":	"region_1055"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"66",
+				"gradient_value":	18.9375,
+				"region_name":	"region_1056"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"67",
+				"gradient_value":	20.09375,
+				"region_name":	"region_1057"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"68",
+				"gradient_value":	26.4375,
+				"region_name":	"region_1058"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"69",
+				"gradient_value":	129.125,
+				"region_name":	"region_1059"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"71",
+				"gradient_value":	152.5625,
+				"region_name":	"region_1060"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"72",
+				"gradient_value":	147.25,
+				"region_name":	"region_1061"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"73",
+				"gradient_value":	128.125,
+				"region_name":	"region_1062"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"74",
+				"gradient_value":	98.96875,
+				"region_name":	"region_1063"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"75",
+				"gradient_value":	98.375,
+				"region_name":	"region_1064"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"76",
+				"gradient_value":	116.78125,
+				"region_name":	"region_1065"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"77",
+				"gradient_value":	104.03125,
+				"region_name":	"region_1066"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"78",
+				"gradient_value":	107.90625,
+				"region_name":	"region_1067"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"79",
+				"gradient_value":	110.5,
+				"region_name":	"region_1068"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"80",
+				"gradient_value":	78.78125,
+				"region_name":	"region_1069"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"82",
+				"gradient_value":	56.46875,
+				"region_name":	"region_1070"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"83",
+				"gradient_value":	56.8125,
+				"region_name":	"region_1071"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"84",
+				"gradient_value":	51.125,
+				"region_name":	"region_1072"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"85",
+				"gradient_value":	48,
+				"region_name":	"region_1073"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"86",
+				"gradient_value":	62.9375,
+				"region_name":	"region_1074"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"87",
+				"gradient_value":	49.3125,
+				"region_name":	"region_1075"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"88",
+				"gradient_value":	32.5625,
+				"region_name":	"region_1076"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"89",
+				"gradient_value":	29.96875,
+				"region_name":	"region_1077"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"90",
+				"gradient_value":	32.75,
+				"region_name":	"region_1078"
+			},
+			"geometry":	{
+			}
+		}, {
+			"type":	"Feature",
+			"properties":	{
+				"cartogram_id":	"91",
+				"gradient_value":	32.5625,
+				"region_name":	"region_1079"
+			},
+			"geometry":	{
+			}
+		}]
+}
